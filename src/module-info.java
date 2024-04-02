@@ -7,4 +7,5 @@
  */
 module TD_TestUnitaire {
 	requires org.junit.jupiter.api;
+	requires junit;
 }
